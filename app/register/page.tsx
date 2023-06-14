@@ -1,6 +1,6 @@
-import Register from "/Users/aldod/my-app/components/register";
+import Register from "components/register";
 
-export default function AboutPage() {
+export default function RegisterPage() {
     return (
         <>
             <Register />
