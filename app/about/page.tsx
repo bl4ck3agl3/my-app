@@ -1,4 +1,4 @@
-import About from "/Users/aldod/my-app/components/about";
+import About from "components/about";
 
 export default function AboutPage() {
     return (

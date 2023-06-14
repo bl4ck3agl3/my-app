@@ -1,5 +1,5 @@
 import React from "react";
-import Hero from "/Users/aldod/my-app/components/hero";
+import Hero from "components/hero";
 
 export default function Home() {
     return (
