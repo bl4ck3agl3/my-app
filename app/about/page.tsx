@@ -4,7 +4,7 @@ export default function AboutPage() {
     return (
         <>
             <About />
-            <div>Compra da noi</div>
+            <div>testo prova</div>
         </>
     );
 }
